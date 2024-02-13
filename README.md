@@ -1,1 +1,7 @@
-# Jean
+#EXTM3U
+
+
+#EXTINF:-1 LIGA 1 MAX
+https://liga1maxtvhd.com/eventos.html?r=aHR0cHM6Ly9jbGFyb3ZpZGVvLnRlbGVncmF0aXMueHl6Lz91cmw9YUhSMGNITTZMeTl3Wld4cGRtVmphR0Z1Ym1Wc2MyUmhjMmd0TXk1amJHRnliM1pwWkdWdkxtTnZiUzlpY0dzdGRIWXZURWxIUVRGTlFWZ3ZaR0Z6YUY5bWF5OXBibVJsZUM1dGNHUT0mazE9TnpKbE16Vm1NbUUzWW1JNU16Rm1aVGRsTkRkaE5qaGhOMlE1TlRkak5Eaz0mazI9TlRrd01UVm1NRFptTVRRek5qTTBNR0l5WXprMllqTmxORFZtTmpNME1XUT0=
+#EXTINF:-1 LAS ESTRELLAS
+https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u8
